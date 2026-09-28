@@ -44,7 +44,8 @@ olevba gem_collection.pptm
 
 
 <img width="1744" height="1158" alt="Screenshot 2026-09-29 at 04 38 41" src="https://github.com/user-attachments/assets/fa6b0b4f-0377-48ca-a18f-a846fda74f53" />
-<img width="1482" height="266" alt="Screenshot 2026-09-29 at 04 39 09" src="https://github.com/user-attachments/assets/f13fdb67-b465-48c7-bdd0-d5b74872f6b7" />
+<img width="1520" height="998" alt="Screenshot 2026-09-29 at 05 16 16" src="https://github.com/user-attachments/assets/47870893-8638-4297-a844-1db02960595b" />
+
 
 
 성공!
